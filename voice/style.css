@@ -11,7 +11,12 @@ body {
     padding: 100px
 }
 
-.comece {
+.container{
+    display: grid;
+    grid-template-columns: 40% 60%
+}
+
+.container-direita {
     width: 90%; /* Aumenta a largura da div para 80% da tela */
     max-width: 650px; /* Aumenta a largura máxima para 800px */
     padding: 80px 70px; /* Aumenta o padding interno */
