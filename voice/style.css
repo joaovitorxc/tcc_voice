@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+.comece{
+    margin-left: 50px;
+    color: white;
+    background-color: antiquewhite;
+    
+}
+
+.botao1{
+    border-radius: 15px;
+    padding: 10px;
+    display: grid;
+    width: -100px;
+}
+
+
+
+.botao2{
+    border-radius: 15px;
+    padding: 10px;
+    display: grid;
+    width: -100px;
+
+}
